@@ -7,3 +7,7 @@ pipeg:
 PyMOTW-2.0.1:
 	Python标准库
 	PyMOTW-2.0.1.tar.gz
+
+JavaScript-The_Definitive_Guide_6th_Edition
+	JavaScript权威指南(第6版)
+	examples.tar.gz
