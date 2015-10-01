@@ -11,3 +11,7 @@ PyMOTW-2.0.1:
 JavaScript-The_Definitive_Guide_6th_Edition
 	JavaScript权威指南(第6版)
 	examples.tar.gz
+
+Python Network Programming Cookbook
+	3463OS_Code
+	9781849513463_Code.zip
